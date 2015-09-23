@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.getbase.floatingactionbutton.FloatingActionsMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:layout="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_marginBottom="25dp"
+    android:layout_marginRight="15dp"
+    layout:fab_addButtonColorNormal="@color/white"
+    layout:fab_addButtonColorPressed="@color/white_pressed"
+    layout:fab_addButtonPlusIconColor="@color/half_black"
+    layout:fab_labelStyle="@style/menu_labels_style"
+    layout:fab_labelsPosition="left">
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/create_task_activity_fab_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout:fab_colorNormal="@color/white"
+        layout:fab_colorPressed="@color/white_pressed"
+        layout:fab_size="mini"
+        layout:fab_title="@string/menu_text" />
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/create_task_activity_fab_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout:fab_colorNormal="@color/white"
+        layout:fab_colorPressed="@color/white_pressed"
+        layout:fab_size="mini"
+        layout:fab_title="@string/menu_image" />
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/create_task_activity_fab_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout:fab_colorNormal="@color/white"
+        layout:fab_colorPressed="@color/white_pressed"
+        layout:fab_size="mini"
+        layout:fab_title="@string/menu_audio" />
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/create_task_activity_fab_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout:fab_colorNormal="@color/white"
+        layout:fab_colorPressed="@color/white_pressed"
+        layout:fab_size="mini"
+        layout:fab_title="@string/menu_video" />
+
+</com.getbase.floatingactionbutton.FloatingActionsMenu>

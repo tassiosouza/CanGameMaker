@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="25dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/create_profile_activity_edit_text_patient_name"
+            style="@style/Theme.EditText.White"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:hint="@string/create_patient_activity_name_hint"
+            android:inputType="textPersonName"
+            android:maxLength="25"
+            android:textColorHint="@color/translucent_white_light" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp">
+
+            <RadioButton
+                android:id="@+id/radio_button_male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/male"
+                android:textColor="@android:color/white" />
+
+            <RadioButton
+                android:id="@+id/radio_button_female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/female"
+                android:textColor="@android:color/white" />
+
+        </RadioGroup>
+
+        <!--<Spinner
+            android:id="@+id/create_profile_activity_spinner_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/create_patient_activity_gender_hint" />-->
+
+        <EditText
+            android:id="@+id/create_profile_activity_edit_text_birth_date"
+            style="@style/Theme.EditText.White"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:focusable="false"
+            android:hint="@string/create_patient_activity_birth_date_hint"
+            android:inputType="date"
+            android:textColorHint="@color/translucent_white_light" />
+
+        <!-- <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dp"
+             android:layout_marginTop="15dp"
+             android:text="@string/create_patient_activity_parent"
+             android:textSize="25dp" />-->
+
+        <EditText
+            android:id="@+id/create_profile_activity_edit_text_parent_name"
+            style="@style/Theme.EditText.White"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:hint="@string/create_patient_activity_parent_name_hint"
+            android:inputType="textPersonName"
+            android:maxLength="25"
+            android:textColorHint="@color/translucent_white_light" />
+
+        <EditText
+            android:id="@+id/create_patient_activity_edit_text_mobile"
+            style="@style/Theme.EditText.White"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/create_patient_activity_mobile_hint"
+            android:inputType="phone"
+            android:maxLength="17"
+            android:textColorHint="@color/translucent_white_light" />
+
+        <Button
+            android:id="@+id/create_patient_activity_button_create"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/selector_button_white"
+            android:text="@string/create_patient_activity_create"
+            android:textAllCaps="false"
+            android:textColor="@color/primary_light" />
+
+    </LinearLayout>
+
+</RelativeLayout>

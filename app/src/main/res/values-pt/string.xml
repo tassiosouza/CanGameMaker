@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Can Game Maker</string>
+
+    <string name="menu_home_home">Jogar</string>
+    <string name="menu_home_cycle">Rotinas</string>
+    <string name="menu_home_task">Pecs</string>
+    <string name="menu_home_tag">Etiquetas</string>
+    <string name="menu_home_setting">Configurações</string>
+    <string name="menu_home_about">Sobre</string>
+    <string name="menu_home_exit">Sair</string>
+
+    <string name="patient_list_activity">Perfis</string>
+
+    <string name="create_patient_activity">Criar Perfil</string>
+    <string name="create_patient_activity_patient">Paciente</string>
+    <string name="create_patient_activity_gender_hint">Sexo</string>
+    <string name="create_patient_activity_name_hint">Nome Paciente</string>
+    <string name="create_patient_activity_birth_date_hint">Data de nascimento</string>
+    <string name="create_patient_activity_parent">Responsável</string>
+    <string name="create_patient_activity_parent_name_hint">Nome do responsável</string>
+    <string name="create_patient_activity_mobile_hint">Telefone</string>
+    <string name="create_patient_activity_create">Criar</string>
+
+    <string name="tag_fragment">Etiquetas</string>
+    <string name="task_fragment">Pecs</string>
+    <string name="cycle_fragment">Rotinas</string>
+    <string name="setting_fragment">Configurações</string>
+
+    <string name="menu_text">Texto</string>
+    <string name="menu_image">Imagem</string>
+    <string name="menu_audio">Aúdio</string>
+    <string name="menu_video">Vídeo</string>
+
+    <string name="you_dont">Você não possui nenhuma Pec!</string>
+
+    <string name="please_go">Vá para a tela de Pec\ne crie uma nova!</string>
+
+    <string name="create_task_activity_save">Salvar</string>
+
+    <string name="profile_saved">Perfil salvo com sucesso!</string>
+
+    <string name="home_menu_profile">Perfil</string>
+
+    # Create Task Activity
+
+    <string name="create_task_activity">Criar Pec</string>
+    <string name="create_task_activity_name_hint">Nome</string>
+    <string name="create_task_activity_next">Próximo</string>
+
+    # Create Tag Activity
+
+    <string name="create_tag_activity">Criar Etiqueta</string>
+    <string name="create_tag_activity_name_hint">Nome</string>
+    <string name="create_tag_activity_create">Criar</string>
+
+    # Setting Fragment
+
+    <string name="setting_fragment_text_message">Tempo para mostrar o texto</string>
+    <string name="setting_fragment_audio_message">Tempo para tocar o aúdio </string>
+    <string name="setting_fragment_video_message">Timpo para exibir o vídeo</string>
+
+    <string-array name="gender">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+    <string name="create_cycle">Criar Rotina</string>
+
+    <string name="one_task">Você precisa selecionar pelo menos uma tarefa.</string>
+
+    <string name="version">Versão 1.0.0</string>
+
+    <string name="pec_finished">Tente novamente!</string>
+
+    <string name="pec_finished_success">Parabéns!</string>
+
+    <string name="inform_hint">Informe o texto da PEC</string>
+    <string name="hint_name">Texto</string>
+
+    <string name="you_need">Você precisar informar todas as etapas</string>
+
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+
+    <string name="save">Salvar</string>
+
+    <string name="edit_profile">Editar Perfil</string>
+
+    <string name="tag_already_exits">O nome já existe</string>
+
+    <string-array name="op_menu">
+        <item>Jogar</item>
+        <item>Deletar</item>
+    </string-array>
+
+    # Validation
+    <string name="validation_not_empty">Campo obrigatório</string>
+    <string name="validation_mobile">Número inválido</string>
+    <string name="validation_name">Minímo três caracteres</string>
+
+</resources>

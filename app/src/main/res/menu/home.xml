@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_home_home"
+            android:checked="true"
+            android:icon="@drawable/icon_home"
+            android:title="@string/menu_home_home" />
+
+        <item
+            android:id="@+id/menu_home_cycle"
+            android:icon="@drawable/icon_cycle"
+            android:title="@string/menu_home_cycle" />
+
+        <item
+            android:id="@+id/menu_home_task"
+            android:icon="@drawable/icon_task"
+            android:title="@string/menu_home_task" />
+
+        <item
+            android:id="@+id/menu_home_profile"
+            android:icon="@drawable/icon_profile"
+            android:title="@string/home_menu_profile" />
+
+        <item
+            android:id="@+id/menu_home_tag"
+            android:icon="@drawable/icon_label"
+            android:title="@string/menu_home_tag" />
+
+        <!-- <item
+             android:id="@+id/menu_home_setting"
+             android:icon="@drawable/selector_icon_home"
+             android:title="@string/menu_home_setting" />-->
+
+        <item
+            android:id="@+id/menu_home_about"
+            android:icon="@drawable/icon_about"
+            android:title="@string/menu_home_about" />
+
+        <!--<item
+            android:id="@+id/menu_home_exit"
+            android:icon="@drawable/icon_about"
+            android:title="@string/menu_home_exit" />-->
+
+    </group>
+
+</menu>

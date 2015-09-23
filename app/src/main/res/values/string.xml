@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Can Game Maker</string>
+
+    <string name="menu_home_home">Play</string>
+    <string name="menu_home_cycle">Cycles</string>
+    <string name="menu_home_task">Pecs</string>
+    <string name="menu_home_tag">Tags</string>
+    <string name="menu_home_setting">Settings</string>
+    <string name="menu_home_about">About</string>
+    <string name="menu_home_exit">Exit</string>
+
+    <string name="patient_list_activity">Profiles</string>
+
+    <string name="create_patient_activity">Create Profile</string>
+    <string name="create_patient_activity_patient">Patient</string>
+    <string name="create_patient_activity_gender_hint">Gender</string>
+    <string name="create_patient_activity_name_hint">Patient Name</string>
+    <string name="create_patient_activity_birth_date_hint">Birth Date</string>
+    <string name="create_patient_activity_parent">Parent</string>
+    <string name="create_patient_activity_parent_name_hint">Parent Name</string>
+    <string name="create_patient_activity_mobile_hint">Mobile</string>
+    <string name="create_patient_activity_create">Create</string>
+
+    <string name="tag_fragment">Tags</string>
+    <string name="task_fragment">Pecs</string>
+    <string name="cycle_fragment">Cycles</string>
+    <string name="setting_fragment">Settings</string>
+
+    <string name="menu_text">Text</string>
+    <string name="menu_image">Image</string>
+    <string name="menu_audio">Audio</string>
+    <string name="menu_video">Video</string>
+
+    <string name="you_dont">You don\'t have any Pecs!</string>
+
+    <string name="please_go">Go to Pecs screen\nand create a new one!</string>
+
+    <string name="create_task_activity_save">Save</string>
+
+    <string name="profile_saved">Profile saved with success!</string>
+
+    <string name="home_menu_profile">Profile</string>
+
+    # Create Task Activity
+
+    <string name="create_task_activity">Create Pec</string>
+    <string name="create_task_activity_name_hint">Name</string>
+    <string name="create_task_activity_next">Next</string>
+
+    # Create Tag Activity
+
+    <string name="create_tag_activity">Create Tag</string>
+    <string name="create_tag_activity_name_hint">Name</string>
+    <string name="create_tag_activity_create">Create</string>
+
+    # Setting Fragment
+
+    <string name="setting_fragment_text_message">Time for show text</string>
+    <string name="setting_fragment_audio_message">Time to play audio</string>
+    <string name="setting_fragment_video_message">Time to play video</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="create_cycle">Create Cycle</string>
+
+    <string name="one_task">You need to select a task at least.</string>
+
+    <string name="version">Version 1.0.0</string>
+
+    <string name="tag_already_exits">The name already exits</string>
+
+    <string name="pec_finished">You missed, Try again!</string>
+
+    <string name="pec_finished_success">Congratulations!</string>
+
+    <string name="inform_hint">Inform the hint name</string>
+    <string name="hint_name">Hint</string>
+
+    <string name="you_need">You need complete all steps</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="save">Save</string>
+
+    <string name="edit_profile">Edit Profile</string>
+
+    <string-array name="op_menu">
+        <item>Play</item>
+        <item>Delete</item>
+        <item>Edit</item>
+    </string-array>
+
+    # Validation
+    <string name="validation_not_empty">This field is required</string>
+    <string name="validation_mobile">Invalid number</string>
+    <string name="validation_name">Minimum three characters</string>
+
+</resources>

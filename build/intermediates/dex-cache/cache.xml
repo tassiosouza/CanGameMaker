@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.weiwangcn.betterspinner/library-material/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-81790a788752f696126fecfb26411528672510c1.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.3/a8b8a6dfc8a17890e4c7ff8aed810763d265b68b/jackson-core-2.5.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8b8a6dfc8a17890e4c7ff8aed810763d265b68b">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.3-d0a66b8c1e13944a871aed963e50e8555bb1a72e.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/com.mobsandgeeks/android-saripaar/2.0.2/73d121ae26214e5dddcfc535cb24d79d76349d10/android-saripaar-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73d121ae26214e5dddcfc535cb24d79d76349d10">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/android-saripaar-2.0.2-cda10af28add1d8b2d1ce56096361d6bdc50fab0.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/commons-io-2.4-b05c66a84488084acb92e549be5a3a691c6e975d.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-8fd88c93deaecdc86e3a7f1a889dad859bd4eb8a.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-9e1035784f778ba7602fe94138fe8a6169ae3e14.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1add1c8b067a87c51208c8307a634a26c2d74a76.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.4.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="10f66556026320088327e814108d0a8e80111130">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-ccc052139c7258f774fa99c8f4726b64f643825e.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="332c3fb3a17fa7a66f84c701047aac964653fdf6">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-ced272a9c1d25d3ab80910a1cd9b0bee18405748.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-0b0cffa7398fedc4488bfc692387372a578c5569.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.3/ade455ede4797ed450ca6a56e589a81278fc8f45/jackson-annotations-2.5.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ade455ede4797ed450ca6a56e589a81278fc8f45">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.5.3-568e1d0ec43d836acafd5074370296efcae66199.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/library-2.4.0-bf124ba57cbf0b6117325780474a9fc8f148a787.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-54c25608dfdbc3d3c8e775f293e9a37b7ab3375b.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="078cad8ebaa25b1eb1790bd622b3a8ae27c9cc7a">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-bd3c6b0d17bcd81e121c1afe54bc0055758f53bb.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-7fef39023cf6b4fb10ef31bf6d259a530967671a.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-141ff8ccd36292faf8518ba3e9855ef9337960d4.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-785d5ded6cf6372b7b2926b0ba5e40f9418b9259.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-158ede26b99de47995e47ced55ccba17d546f1e9.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/classes-3043c0b3fabf8b7685d9efea64e33d193cf7c1a3.jar" />
+    </item>
+    <item
+        jar="/Users/Tassio/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.3/c37875ff66127d93e5f672708cb2dcc14c8232ab/jackson-databind-2.5.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c37875ff66127d93e5f672708cb2dcc14c8232ab">
+        <dex dex="/Users/Tassio/Downloads/CanGameMaker/app/build/intermediates/pre-dexed/debug/jackson-databind-2.5.3-6b15ffb911bff4e58c1c8932c832a17a5c033dc2.jar" />
+    </item>
+
+</items>
